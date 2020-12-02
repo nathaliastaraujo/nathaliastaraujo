@@ -1,4 +1,4 @@
-### Hi there! I'm Nathalia, welcome to my profile!
+### Hi there! I'm Nathalia, welcome to my profile! :blush:
 #### Oi, pessoal! Sou a Nathália, sejam bem vindos ao meu perfil!
 <br>
 <hr>
