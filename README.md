@@ -16,7 +16,7 @@
 <br>
 
 - :mortar_board: Bacharela em Engenharia de Computação (UTFPR)
--  👩🏼‍💻 Atualmente trabalho no <a target="_blank" href="https://www.btgpactual.com"/> BTG Pactual </a>, na área de IT Digital Assets
+-  👩🏼‍💻 Atualmente trabalho no <a target="_blank" href="https://www.btgpactual.com"/> BTG Pactual</a>, na área de IT Digital Assets
 - Estou trabalhando como desenvolvedora Full Stack: NET, C, C#, Angular, HTML, TS, JS, SQL, AWS, Dart e Flutter. <strong> MAS... </strong>
 - Também sei bastante sobre MATLAB, Controle de Sistemas Embarcados e desenvolvimento de Hardware :wink: <strong> E... </strong>
 - Tenho estudado sobre Mercado Financeiro e Gerenciamento de Processos de Negócio. Por enquanto chega de "<strong> MAS, E... </strong>", mas estou sempre buscando e estudando coisas novas! :grin:
